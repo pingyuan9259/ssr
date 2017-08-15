@@ -3,7 +3,7 @@ import Nuxt from 'nuxt'
 
 const app = new Koa()
 const host = process.env.HOST || '127.0.0.1'
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
 // Start nuxt.js
 async function start() {

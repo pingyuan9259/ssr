@@ -27,7 +27,7 @@ export default {
     Logo
   },
   async asyncData () {
-    console.log('asyncData')
+    console.log('asyncData12323413213fdsaf')
   },
   data () {
     return {
