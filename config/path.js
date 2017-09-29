@@ -12,5 +12,5 @@ module.exports = {
     serverBuildPath: buildPath,
     userNodeModulesPath: path.join(rootPath, 'node_modules'),
     publicPath: '/',
-    serverUrl: 'http://localhost:3000'
+    serverUrl: 'http://localhost:3001'
 }
